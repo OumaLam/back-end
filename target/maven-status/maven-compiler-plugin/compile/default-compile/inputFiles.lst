@@ -1,0 +1,11 @@
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Dto\OtpRequest.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\FrontEndApplication.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Dto\LoginRequest.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\repository\EmployeRepository.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Securite\JwtService.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Dto\LoginResponse.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Controllers\AuthController.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Securite\JwtAuthenticationFilter.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Configuration\SecurityConfig.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\Entity\Employe.java
+C:\xampp\htdocs\back_end\src\main\java\com\Wasfa\front_end\services\EmailService.java

@@ -1,4 +1,7 @@
 package com.Wasfa.front_end.repository;
 
-public class StatutRepository {
+import com.Wasfa.front_end.Entity.StatutAnimal;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+interface  StatutRepository extends JpaRepository<StatutAnimal, Long> {
 }
